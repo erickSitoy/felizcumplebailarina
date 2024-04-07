@@ -79,17 +79,17 @@ img {
 }
 
 #foto1 {
-    width: 200px;
+    width: 300px;
     animation: lanzarFoto1 2s ease-in-out forwards;
 }
 
 #foto2 {
-    width: 400px;
+    width: 300px;
     animation: lanzarFoto2 2s ease-in-out forwards;
 }
 
 #foto3 {
-    width: 400px;
+    width: 300px;
     animation: lanzarFoto3 2s ease-in-out forwards;
 }
 
