@@ -79,7 +79,7 @@ img {
 }
 
 #foto1 {
-    width: 400px;
+    width: 200px;
     animation: lanzarFoto1 2s ease-in-out forwards;
 }
 
